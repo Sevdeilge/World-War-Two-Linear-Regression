@@ -22,7 +22,7 @@ The high model performance was achieved through careful data preprocessing, incl
 
 
 ## How to Run
-* 1) Clone the repository
+* 1. Clone the repository
 * 2. Install dependencies
 * 3. Run the analysis
 
