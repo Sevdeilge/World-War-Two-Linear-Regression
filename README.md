@@ -11,12 +11,9 @@ Following feature engineering and optimization, the model achieved the following
 The high model performance was achieved through careful data preprocessing, including the removal of highly correlated features to prevent multicollinearity, handling null values, imputing inconsistent data points, and eliminating duplicate records.
 
 ## Visualizations
-(results.png) 
-* The tight distribution along the identity line indicates low variance in prediction errors.
-(correlation_heatmap.png)
-* Shows the strong relationship between MaxTemp and MeanTemp.
-(weather_boxplot.png)
-* Visualizes the temperature distribution and potential outliers.
+* (results.png) - The tight distribution along the identity line indicates low variance in prediction errors.
+* (correlation_heatmap.png) - Shows the strong relationship between MaxTemp and MeanTemp.
+* (weather_boxplot.png) - Visualizes the temperature distribution and potential outliers.
 
 ## Technologies Used
 * **Pandas** (Data manipulation)
