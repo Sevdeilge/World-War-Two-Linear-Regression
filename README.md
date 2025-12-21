@@ -12,11 +12,11 @@ The high model performance was achieved through careful data preprocessing, incl
 
 ## Visualizations
 (results.png) 
-*-- The tight distribution along the identity line indicates low variance in prediction errors.
+* -- The tight distribution along the identity line indicates low variance in prediction errors.
 (correlation_heatmap.png)
-*-- Shows the strong relationship between MaxTemp and MeanTemp.
+* -- Shows the strong relationship between MaxTemp and MeanTemp.
 (weather_boxplot.png)
-*-- Visualizes the temperature distribution and potential outliers.
+* -- Visualizes the temperature distribution and potential outliers.
 
 ## Technologies Used
 * **Pandas** (Data manipulation)
