@@ -26,4 +26,4 @@ The high model performance was achieved through careful data preprocessing, incl
 2. **Install dependencies:**
    `pip install pandas scikit-learn matplotlib seaborn`
 3. **Run the analysis:**
-   Open and run `World-War-Teo-Linear.ipynb` 
+   Open and run `WorldWarTWoLinear.ipynb` 
