@@ -20,10 +20,3 @@ The high model performance was achieved through careful data preprocessing, incl
 * **Scikit-Learn** (Linear Regression & Evaluation)
 * **Matplotlib/Seaborn** (Visualization)
 
-## How to Run
-1. **Clone the repository:**
-   `git clone https://github.com/Sevdeilge/World-War-Two-Linear-Regression.git`
-2. **Install dependencies:**
-   `pip install pandas scikit-learn matplotlib seaborn`
-3. **Run the analysis:**
-   Open and run `WorldWarTWo_Linear.ipynb` 
