@@ -1,5 +1,5 @@
 # World War Two Weather Prediction Using Linear Regression
-This project analyzes and predicts daily mean temperatures using meteorological station data from the World War II era. By leveraging historical records, I developed a Linear Regression model to estimate the 'MeanTemp' value.
+This repository analyzes and predicts daily mean temperatures using meteorological station data from the World War II era. By leveraging historical records, I developed a Linear Regression model to estimate the 'MeanTemp' value.
 
 ## Performance Metrics
 Following feature engineering and optimization, the model achieved the following results:
